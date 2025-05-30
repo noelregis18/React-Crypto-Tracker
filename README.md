@@ -2,7 +2,7 @@
 
 A modern React application for tracking cryptocurrency prices, market trends, and detailed information about various cryptocurrencies in real-time.
 
-![Crypto Tracker](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)
+
 
 ## Demo
 

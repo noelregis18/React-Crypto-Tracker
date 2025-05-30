@@ -4,10 +4,6 @@ A modern React application for tracking cryptocurrency prices, market trends, an
 
 
 
-## Demo
-
-Check out the live demo: [Crypto Hunter](https://crypto-hunter.netlify.app/)
-
 ## Features
 
 - **Real-time Cryptocurrency Data**: Track prices, market cap, and volume for 100+ cryptocurrencies
